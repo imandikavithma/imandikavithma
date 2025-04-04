@@ -1,9 +1,9 @@
-Hi, I'm Imandi Kavithma
+<h1>Hi, I'm Imandi Kavithma </h1>
 
-📫 How to reach me: imandikavithma2714@gmail.com
+<h3>📫 How to reach me: imandikavithma2714@gmail.com </h3>
 
 
-Language:
+<h3>Language:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
