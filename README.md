@@ -1,15 +1,13 @@
 <h1 align="center">Hello 👋, I'm Imandi Kavithma </h1> 
 <p align="center">U N D E R G R A D U A T E <br>
 BSc(Hons) in Computer Science <br>
-University of Westminster, UK <br>
-📫 How to reach me: **[imandikavithma2714@gmail.com]** </p>
-
-<br>
+University of Westminster, UK <br></p>
+📫 How to reach me: imandikavithma2714@gmail.com
 
 ## 🛠️ My Skills
 
 
-<p align="center">### 🖥️ Languages:</p> 
+<p align="center">----- 🖥️ Languages -----</p> 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
@@ -22,14 +20,14 @@ University of Westminster, UK <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="57" height="57"/>
 </p>
 
-<p align="center">### 🧩 Frameworks & Libraries</p>
+<p align="center">----- 🧩 Frameworks & Libraries -----</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </p>
 
-<p align="center"> ### 🛠️ Tools </p> 
+<p align="center">----- 🛠️ Tools -----</p> 
 <p align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
