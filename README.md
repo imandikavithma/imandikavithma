@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=800&lines=Heyyy!+I'm+Imandi+Kavithma;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFA500&size=50&center=true&vCenter=true&height=60&width=800&lines=Heyyy!+I'm+Imandi+Kavithma;Welcome+to+my+profile!" alt="Title"></img>
 </div> <hr>
-
 
 <p align="center">U N D E R G R A D U A T E <br>
 BSc(Hons) in Computer Science <br>
