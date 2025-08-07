@@ -6,7 +6,6 @@
 BSc(Hons) in Computer Science <br>
 University of Westminster, UK <br>
 📫 How to reach me: <a href="imandikavithma2714@gmail.com"> imandikavithma2714@gmail.com </a> <br>
-🌐 Portfolio : <a href="https://myportfolio-imandikavithma.vercel.app/" target="_blank">myportfolio-imandikavithma.vercel.app </a>  </p>
 
 <h2>🛠️ My Skills</h2>
 
