@@ -80,7 +80,7 @@ University of Westminster, UK <br>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"  height="40" />
   <img width="12" />
-
+<br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"  height="40" />
   <img width="12" />
 
